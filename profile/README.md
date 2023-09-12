@@ -1,6 +1,6 @@
 ## 🙆‍♂ Member
 
-| <img src="" width="185" height="196"/> | <img src="" width="185" height="196"/> | <img src="" width="185" height="196"/> |<img src="" width="185" height="196"/>|
+| <img src="" width="184" height="196"/> | <img src="" width="184" height="196"/> | <img src="" width="184" height="196"/> |<img src="" width="184" height="196"/>|
 |:---:|:---:|:---:|:---:|
 |**Front-End**|**Back-End**|**Back-End**|**Back-End**|
 |**[이아름](https://github.com/aahreum)**|**👑[김민정](https://github.com/mingkiii)👑**|**[김동역](https://github.com/Ameri-Kano)**|**[김재윤](https://github.com/JaeYooooon)**|
