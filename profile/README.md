@@ -60,7 +60,5 @@
 ## 🖨 Backend Architecture
 
 ## 📃 ERD
-
-![image](https://github.com/zerobase-devee/.github/assets/99658884/c98b3ef9-554d-451c-a664-578e3dbb3290)
-
+![image](https://github.com/zerobase-devee/.github/assets/99658884/875fb801-f319-4c9b-82d7-7393a813264e)
 
