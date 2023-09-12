@@ -33,11 +33,11 @@
   <img src="https://img.shields.io/badge/typescript-000000?style=flat-square&logo=typescript&logoColor=3178C6"></a>
   <img src="https://img.shields.io/badge/CSS Modules-000000?style=flat-square&logo=cssmodules&logoColor=white"></a>
   <img src="https://img.shields.io/badge/axios-000000?style=flat-square&logo=axios&logoColor=5A29E4"> </a>
-  <img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Redux&logoColor=764ABC"> </a>
+  <img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Recoil&logoColor=2573f6"> </a>
   <img src="https://img.shields.io/badge/reactquery-000000?style=flat-square&logo=reactquery&logoColor=FF4154"></a>
   <img src="https://img.shields.io/badge/Socket.io-000000?style=flat-square&logo=Socket.io&logoColor=white"> </a>
   <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=F24E1E"> </a>
-  <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=netlify&logoColor=00C7B7"></a>
+  <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white"></a>
 
 ### Database
   <img src="https://img.shields.io/badge/Mysql-000000?style=flat-square&logo=MySql&logoColor=4479A1"/></a>
