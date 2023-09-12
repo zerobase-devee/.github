@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring JPA-000000?style=flat-square&logo=Spring Jpa&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oauth 2.0-000000?style=flat-square&logo=Authy&logoColor=EC1C24"/></a>
+  
   <img src="https://img.shields.io/badge/Spring Batch-000000?style=flat-square&logo=Spring Batch&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/QueryDSL-000000?style=flat-square&logo=QueryDsl&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SSE-000000?style=flat-square&logo=SSE&logoColor=white"/></a>
