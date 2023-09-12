@@ -1,6 +1,6 @@
 ## 🙆‍♂ Member
 
-| <img src="" width="184" height="196"/> | <img src="" width="184" height="196"/> | <img src="" width="184" height="196"/> |<img src="" width="184" height="196"/>|
+| <img src="https://github.com/zerobase-devee/.github/assets/99658884/83a6acd1-3e8d-494b-a61f-75244c76b4be" width="184" height="196"/> | <img src="https://github.com/zerobase-devee/.github/assets/99658884/851fa7fc-76e4-44c9-afe6-5e9db8a7d796" width="184" height="196"/> | <img src="https://github.com/zerobase-devee/.github/assets/99658884/82c1f61e-f037-4121-8f4f-7c32330a56d6" width="184" height="196"/> |<img src="https://github.com/zerobase-devee/.github/assets/99658884/22446ae6-b495-4f54-b93a-b568f4cfd8d1" width="184" height="196"/>|
 |:---:|:---:|:---:|:---:|
 |**Front-End**|**Back-End**|**Back-End**|**Back-End**|
 |**[이아름](https://github.com/aahreum)**|**👑[김민정](https://github.com/mingkiii)👑**|**[김동역](https://github.com/Ameri-Kano)**|**[김재윤](https://github.com/JaeYooooon)**|
