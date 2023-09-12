@@ -8,8 +8,10 @@
 ## 🎇 Link
 - [Notion](https://www.notion.so/ahahahahreum/Devee-devHive-a935c69b7da04a3b850e96fc21d894f5)
 - [Swagger](http://52.79.90.0:8080/swagger-ui/index.html)
+- [Function](https://www.notion.so/ahahahahreum/e6f6a798b76146a9a269a1142c994c52)
+- [API](https://www.notion.so/ahahahahreum/API-8738da4dea7b4cbd9515a2194b30fa39)
 
-## 🛠 Teck Stack 
+## 🛠 Teck Stack
 
 ### Backend
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
