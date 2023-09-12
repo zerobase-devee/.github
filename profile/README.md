@@ -48,12 +48,14 @@
   <img src="https://img.shields.io/badge/Amazon EC2-000000?style=flat-square&logo=Amazon EC2&logoColor=#FF9900"/></a>
   <img src="https://img.shields.io/badge/Amazon S3-000000?style=flat-square&logo=Amazon S3&logoColor=#569A31"/></a>
   <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=#2496ED"/></a>
-  <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=Jenkins&logoColor=#D24939"/></a>
+  <img src="https://img.shields.io/badge/GitHub Actions-000000?style=flat-square&logo=GitHub Actions&logoColor=#2088FF"/></a>
   
-### Collaboration tool
+### tool
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
   <img src="https://img.shields.io/badge/Slack-000000?style=flat-square&logo=Slack&logoColor=4A154B"/></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=Discord&logoColor=207BEA"/></a>
+  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=#000000"/></a>
 
 ## 🖨 Backend Architecture
 
