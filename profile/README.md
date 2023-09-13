@@ -57,8 +57,10 @@
   <img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=Discord&logoColor=207BEA"/></a>
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=#000000"/></a>
 
-## 🖨 Backend Architecture
+## 🖨 Architecture
+![아키텍처 drawio (3)](https://github.com/zerobase-devee/.github/assets/123580123/34543d77-e55f-4821-862c-3bc5a937e7c2)
 
 ## 📃 ERD
-![image](https://github.com/zerobase-devee/.github/assets/99658884/875fb801-f319-4c9b-82d7-7393a813264e)
+![devee (2)](https://github.com/zerobase-devee/.github/assets/123580123/e7f56554-7cf1-4b66-92ca-12236b224e69)
+
 
