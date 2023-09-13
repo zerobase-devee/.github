@@ -10,6 +10,7 @@
 - [Swagger](http://52.79.90.0:8080/swagger-ui/index.html)
 - [Function](https://www.notion.so/ahahahahreum/e6f6a798b76146a9a269a1142c994c52)
 - [API](https://www.notion.so/ahahahahreum/API-8738da4dea7b4cbd9515a2194b30fa39)
+- [VIDEO](https://www.youtube.com/watch?v=WZnZeoMJ8Rs)
 
 ## 🛠 Teck Stack
 
@@ -35,7 +36,7 @@
   <img src="https://img.shields.io/badge/axios-000000?style=flat-square&logo=axios&logoColor=5A29E4"> </a>
   <img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Recoil&logoColor=2573f6"> </a>
   <img src="https://img.shields.io/badge/reactquery-000000?style=flat-square&logo=reactquery&logoColor=FF4154"></a>
-  <img src="https://img.shields.io/badge/Socket.io-000000?style=flat-square&logo=Socket.io&logoColor=white"> </a>
+  <img src="https://img.shields.io/badge/STOMPJS-000000?style=flat-square&logo=STOMPJS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=F24E1E"> </a>
   <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white"></a>
 
